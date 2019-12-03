@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arfanet.nuvo.belajarti"
+    android:versionCode="2"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/logo"
+        android:label="Belajar Teknologi"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.arfanet.nuvo.belajarti.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.TIK" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.SejarahTIK" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.PDTIK" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.Software" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.Hardware" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.MenuIconMsword" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.SOWinXP" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.MenggunakanIkonPadaMsWord" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.FungsiIkonMsExcel" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.PenggunaanMenuIkonMsExcel" />
+        <activity android:name="com.arfanet.nuvo.belajarti.materi.BekerjaDenganMsExcel" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalTIK"
+            android:label="Teknologi Informasi dan Komunikasi"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalSejarahTIK"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalPDTIK"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalSOWinXP"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalHardware"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalSoftware"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalMenuIkonMsword"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalMenggunakanIkonPadaMsWord"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalFungsiIkonMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalPenggunaanMenuIkonMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.latihanSoal.SoalBekerjaDenganMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.Materi"
+            android:label="@string/title_activity_materi"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.news.News"
+            android:label="@string/title_activity_news"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.news.DetailBerita"
+            android:label="@string/title_activity_detail_berita"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.news.News"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.news.News" />
+        </activity>
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.SoalLatihan"
+            android:label="@string/title_activity_latihan_soal"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity android:name="com.arfanet.nuvo.belajarti.Tentang" />
+        <activity android:name="com.arfanet.nuvo.belajarti.Petunjuk" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.menu_materi.MenuMateri"
+            android:label="Materi TIK"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity android:name="com.arfanet.nuvo.belajarti.menu_materi.PDFActivity" />
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.download_pdf.DaftarDownload"
+            android:label="Download Materi"
+            android:parentActivityName="com.arfanet.nuvo.belajarti.menu_materi.MenuMateri" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.menu_materi.MenuMateri" />
+        </activity>
+        <activity
+            android:name="com.arfanet.nuvo.belajarti.streaming_video.VideoStreaming"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>

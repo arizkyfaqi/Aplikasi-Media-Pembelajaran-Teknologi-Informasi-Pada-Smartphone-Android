@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\news_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\news_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\keluar.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\keluar.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\cb247cd111f9290d75029fbc279e0a894daeebf3\\output\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pdf.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_left.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\cb247cd111f9290d75029fbc279e0a894daeebf3\\output\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bglist.jpg",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\bglist.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tentang_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\tentang_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_news.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_news.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_top.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\cb247cd111f9290d75029fbc279e0a894daeebf3\\output\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\news.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bgrect.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\bgrect.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mm.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\mm.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_latihan.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_latihan.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tentang.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\tentang.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_tentang.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_tentang.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_petunjuk.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_petunjuk.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\side_nav_bar.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgnews.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\imgnews.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\petunjuk.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\petunjuk.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\materi.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\materi.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\latihan.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\latihan.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_right.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\cb247cd111f9290d75029fbc279e0a894daeebf3\\output\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\petunjuk_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\petunjuk_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gmkuis.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\gmkuis.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\materi_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\materi_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bglat.jpg",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\bglat.jpg"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\latihan_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\latihan_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rect1.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\rect1.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splashscreen.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_keluar.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_keluar.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rect.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\rect.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\keluar_klik.png",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\keluar_klik.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_materi.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable\\btn_materi.xml"
+    }
+]

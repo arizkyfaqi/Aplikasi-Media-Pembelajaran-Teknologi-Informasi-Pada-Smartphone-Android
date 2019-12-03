@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\PROJECT\ANDROID\Tugas Akhir\Belajar TI\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="E:\PROJECT\ANDROID\Tugas Akhir\Belajar TI\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_82594f29b9521ac1b75e4d47afc35232b8b5799f.jar" />
+    </item>
+
+</items>

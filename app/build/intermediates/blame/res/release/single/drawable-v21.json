@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_share.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_manage.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_camera.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_send.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\288f5cdfaeabb7230236caea6b3c0de70d9a7507\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

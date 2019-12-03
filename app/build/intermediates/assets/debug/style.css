@@ -1,0 +1,94 @@
+*{
+  font-family: sans-serif;
+  font-size: 15px;
+}
+  
+body{
+  background-color: #fdfdfd;
+  background-image: url("gambar/bglist.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+#header{
+  height: auto;
+  background: transparent;
+  margin-top: 3%;
+}
+
+#judul{
+  display: inline;
+}
+
+#txt{
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 18px;
+}
+
+#txtttng{
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  line-height: 18px;
+  font-size: 15px;
+}
+
+ul{
+    padding-bottom: 10px;
+}
+
+#petunjukbg{
+  width: auto;
+  height: auto;
+  margin: auto;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+
+#materi{
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+#latihan{
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+#tentang{
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+
+#news{
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+#keluar{
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  background-color:rgba(255,255,255,0.5);
+  border-radius: 20px;
+}
+
+

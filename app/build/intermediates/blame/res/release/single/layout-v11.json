@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Nuvo\\.android\\build-cache\\94b3f7a3d32b94f35856b2a13bcea08ff9d6f7d0\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

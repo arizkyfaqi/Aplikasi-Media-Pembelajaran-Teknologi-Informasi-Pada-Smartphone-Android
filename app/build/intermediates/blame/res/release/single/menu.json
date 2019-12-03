@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\menu\\news.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\menu\\news.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_news_drawer.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\menu\\activity_news_drawer.xml"
+    },
+    {
+        "merged": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_detail_berita.xml",
+        "source": "E:\\PROJECT\\ANDROID\\Tugas Akhir\\Belajar TI\\app\\src\\main\\res\\menu\\menu_detail_berita.xml"
+    }
+]
