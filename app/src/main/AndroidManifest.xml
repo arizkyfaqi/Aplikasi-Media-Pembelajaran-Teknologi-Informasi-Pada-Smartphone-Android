@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arfanet.nuvo.belajarti">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--<uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Belajar Teknologi"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".materi.TIK" />
+        <activity android:name=".materi.SejarahTIK" />
+        <activity android:name=".materi.PDTIK" />
+        <activity android:name=".materi.Software" />
+        <activity android:name=".materi.Hardware" />
+        <activity android:name=".materi.MenuIconMsword" />
+        <activity android:name=".materi.SOWinXP" />
+        <activity android:name=".materi.MenggunakanIkonPadaMsWord" />
+        <activity android:name=".materi.FungsiIkonMsExcel" />
+        <activity android:name=".materi.PenggunaanMenuIkonMsExcel" />
+        <activity android:name=".materi.BekerjaDenganMsExcel" />
+        <activity android:name=".latihanSoal.SoalTIK"
+            android:label="Teknologi Informasi dan Komunikasi"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalSejarahTIK"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalPDTIK"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalSOWinXP"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalHardware"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalSoftware"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalMenuIkonMsword"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalMenggunakanIkonPadaMsWord"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalFungsiIkonMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalPenggunaanMenuIkonMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity android:name=".latihanSoal.SoalBekerjaDenganMsExcel"
+            android:theme="@style/Animation.AppCompat.Dialog"/>
+        <activity
+            android:name=".Materi"
+            android:label="@string/title_activity_materi"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity
+            android:name=".news.News"
+            android:label="@string/title_activity_news"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity
+            android:name=".news.DetailBerita"
+            android:label="@string/title_activity_detail_berita"
+            android:parentActivityName=".news.News"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.news.News" />
+        </activity>
+        <activity
+            android:name=".SoalLatihan"
+            android:label="@string/title_activity_latihan_soal"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity android:name=".Tentang" />
+        <activity android:name=".Petunjuk" />
+        <activity
+            android:name=".menu_materi.MenuMateri"
+            android:label="Materi TIK"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.MainActivity" />
+        </activity>
+        <activity android:name=".menu_materi.PDFActivity" />
+        <activity
+            android:name=".download_pdf.DaftarDownload"
+            android:label="Download Materi"
+            android:parentActivityName=".menu_materi.MenuMateri">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.arfanet.nuvo.belajarti.menu_materi.MenuMateri" />
+        </activity>
+        <activity android:name=".streaming_video.VideoStreaming"
+                    android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

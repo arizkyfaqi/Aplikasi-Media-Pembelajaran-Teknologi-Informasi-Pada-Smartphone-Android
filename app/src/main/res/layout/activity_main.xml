@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bglat"
+    tools:context="com.arfanet.nuvo.belajarti.MainActivity">
+
+    <!--<TextView-->
+    <!--android:id="@+id/create"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Belajar Teknologi itu asik"-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="23dp"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+    <FrameLayout
+    android:id="@+id/frameLayout"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:background="@drawable/bgrect"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"></FrameLayout>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:id="@+id/Ln1"-->
+        <!--tools:layout_constraintTop_creator="1"-->
+        <!--tools:layout_constraintBottom_creator="1"-->
+        <!--android:layout_marginStart="40dp"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--tools:layout_constraintLeft_creator="1"-->
+        <!--app:layout_constraintLeft_toLeftOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent">-->
+
+        <ImageButton
+            android:id="@+id/btnMateri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/btn_materi"
+            android:layout_marginLeft="35dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/btnLatihan"
+            android:layout_marginRight="16dp"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginStart="35dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="62dp" />
+
+        <ImageButton
+            android:id="@+id/btnPetunjuk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_petunjuk"
+            android:background="#00000000"
+            android:layout_marginLeft="35dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/btnNews"
+            android:layout_marginRight="16dp"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginStart="35dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/btnMateri"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toTopOf="@+id/btnTentang"
+            app:layout_constraintVertical_bias="0.454" />
+
+        <ImageButton
+            android:id="@+id/btnTentang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/btn_tentang"
+            android:layout_marginLeft="35dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/btnKeluar"
+            android:layout_marginRight="16dp"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="55dp"
+            android:layout_marginStart="35dp"
+            android:layout_marginEnd="16dp" />
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:id="@+id/Ln2"-->
+        <!--tools:layout_constraintTop_creator="1"-->
+        <!--tools:layout_constraintRight_creator="1"-->
+        <!--tools:layout_constraintBottom_creator="1"-->
+        <!--app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--android:layout_marginEnd="40dp"-->
+        <!--app:layout_constraintRight_toRightOf="parent"-->
+        <!--app:layout_constraintTop_toTopOf="parent"-->
+        <!--app:layout_constraintVertical_bias="0.5">-->
+
+        <ImageButton
+            android:id="@+id/btnLatihan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/btn_latihan"
+            android:layout_marginRight="84dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginEnd="35dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="62dp" />
+
+        <ImageButton
+            android:id="@+id/btnNews"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/btn_news"
+            android:layout_marginRight="35dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginEnd="35dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/btnLatihan"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toTopOf="@+id/btnKeluar"
+            app:layout_constraintVertical_bias="0.521" />
+
+        <ImageButton
+            android:id="@+id/btnKeluar"
+            android:onClick="onBackPressed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/btn_keluar"
+            android:layout_marginRight="49dp"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginEnd="38dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginBottom="54dp" />
+
+    <!--</LinearLayout>-->
+
+</android.support.constraint.ConstraintLayout>
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:background="@drawable/bglat"-->
+<!--tools:context="com.example.nuvo.belajarti.MainActivity">-->
+
+<!--&lt;!&ndash;<TextView&ndash;&gt;-->
+<!--&lt;!&ndash;android:id="@+id/create"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;android:text="Belajar Teknologi itu asik"&ndash;&gt;-->
+<!--&lt;!&ndash;android:textColor="#ffffff"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;android:textSize="23dp"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_centerHorizontal="true" />&ndash;&gt;-->
+
+<!--<FrameLayout-->
+    <!--android:id="@+id/frameLayout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:background="@drawable/bgrect"-->
+    <!--&gt;</FrameLayout>-->
+
+<!--<LinearLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:id="@+id/Ln1"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_alignParentStart="true"-->
+    <!--android:layout_marginStart="40dp">-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnMateri"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="#00000000"-->
+        <!--android:src="@drawable/btn_materi" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnPetunjuk"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:src="@drawable/btn_petunjuk"-->
+        <!--android:background="#00000000" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnTentang"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:background="#00000000"-->
+        <!--android:src="@drawable/btn_tentang" />-->
+
+<!--</LinearLayout>-->
+
+<!--<LinearLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical"-->
+    <!--android:id="@+id/Ln2"-->
+    <!--android:layout_alignBottom="@+id/Ln1"-->
+    <!--android:layout_alignParentEnd="true"-->
+    <!--android:layout_marginEnd="40dp">-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnLatihan"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="#00000000"-->
+        <!--android:src="@drawable/btn_latihan" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnNews"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:background="#00000000"-->
+        <!--android:src="@drawable/btn_news" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/btnKeluar"-->
+        <!--android:onClick="onBackPressed"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:background="#00000000"-->
+        <!--android:src="@drawable/btn_keluar" />-->
+
+<!--</LinearLayout>-->
+
+<!--</RelativeLayout>-->

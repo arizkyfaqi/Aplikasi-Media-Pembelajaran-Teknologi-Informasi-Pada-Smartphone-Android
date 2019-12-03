@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="btnmateri" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorControlHighlight">@color/indigo</item>
+        <item name="colorButtonNormal">@color/blue</item>
+    </style>
+
+    <color name="indigo">#f48fb1</color>
+    <color name="pink">#e91e63</color>
+    <color name="blue">#2196f3</color>
+    <color name="White">#90caf9</color>
+    <color name="green">#8bc34a</color>
+    <color name="light_green">#c5e1a5</color>
+    <color name="orange">#ff5722</color>
+    <color name="deep_orange">#ffab91</color>
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
